@@ -1,3 +1,13 @@
+. {
+    bord
+}
+
+.calculator {
+    height: 500px;
+    border-style: dashed;
+    width: 300px;
+}
+
 .buttons-grid {
-    display: flex;
+    display: grid;
 }
